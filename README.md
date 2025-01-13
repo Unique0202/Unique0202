@@ -4,10 +4,10 @@
 
 ![](hi.gif)
 
-👋 I’m @Gautam. <br>
-👀 I'm interested in CS, Maths & Games. <br>
-🌱 I'm currently learning AI/ML, Data Science. <br>
-📖 Learning Computer Science in academics. <br>
+👋 I’m @Unique. <br>
+👀 I'm interested in CS, Maths, Design & Games. <br>
+🌱 I'm currently learning React, MongoDB, SQL. <br>
+📖 Learning Computer Science with Design in academics. <br>
 📫 Reach me through my socials ———————————⟶
         </th>
       
@@ -15,11 +15,10 @@
 <th>
 
 # 🔗 Socials
-[![GitHub Gautam](https://img.shields.io/github/followers/YashVardhan-AI?label=follow&style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/gautam2905)
-[![Email](https://img.shields.io/badge/Mail-004788?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gautam23220@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gautam-gupta-382720175)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/870521430029238292)
-[![kaggle](https://img.shields.io/badge/kaggle-31C3FF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/gautamgupta2005)
+[![GitHub Unique](https://img.shields.io/github/followers/YashVardhan-AI?label=follow&style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/Unique0202)
+[![Email](https://img.shields.io/badge/Mail-004788?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uniquek0202@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unique-k-71064a28a/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/766202021216518174)
 
 
 </th>
@@ -34,11 +33,9 @@
 
 [![Python](https://img.shields.io/badge/Python-Primary_Language-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/C++-Good-6295CB?style=for-the-badge&logo=cplusplus)]()
-[![Rust](https://img.shields.io/badge/Rust-learning-6BA299?style=for-the-badge&logo=matlab)]((https://www.rust-lang.org/)) 
 [![Java](https://img.shields.io/badge/Java-Basics-E51F24?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/) 
 [![C](https://img.shields.io/badge/C-Learning-00427E?style=for-the-badge&logo=c&logoColor=white)]() 
 [![JavaScript](https://img.shields.io/badge/JavaScript-HateIt-FFCE5A?style=for-the-badge&logo=javascript)](https://www.javascript.com/)
-[![Matlab](https://img.shields.io/badge/Matlab-learning-6BA299?style=for-the-badge&logo=matlab)](https://matlab.mathworks.com/) 
 
 
 ## ⚙ Frameworks
