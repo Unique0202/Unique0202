@@ -49,6 +49,6 @@
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-22A6F2?style=for-the-badge&logo=visualstudio)](https://code.visualstudio.com/)
 [![PyCharm](https://img.shields.io/badge/PyCharm-4C4C4C?style=for-the-badge&logo=pycharm)](https://www.jetbrains.com/pycharm/)
 [![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-4C4C4C?style=for-the-badge&logo=intellij%20idea)](https://www.jetbrains.com/idea/)
-[![Node.js](https://img.shields.io/badge/Node.js-HateIt-339933?style=for-the-badge&logo=node.js)](https://nodejs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)](https://nodejs.org/)
 
 
