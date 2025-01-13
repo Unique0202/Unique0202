@@ -29,8 +29,7 @@
 
 
 ## 🗣 Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautam2905&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="gautam2905's GitHub Stats" height=180 />
-
+![Unique0202's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Unique0202&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 [![Python](https://img.shields.io/badge/Python-Primary_Language-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/C++-Good-6295CB?style=for-the-badge&logo=cplusplus)]()
 [![Java](https://img.shields.io/badge/Java-Basics-E51F24?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/) 
