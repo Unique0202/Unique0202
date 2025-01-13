@@ -40,7 +40,7 @@
 
 
 ## ⚙ Frameworks
-[![React](https://img.shields.io/badge/React-HateIt-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
+[![React](https://img.shields.io/badge/React-Good-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
 
 
 ## 🔧 Tools
