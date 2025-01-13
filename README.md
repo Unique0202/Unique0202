@@ -29,14 +29,13 @@
 
 
 ## 🗣 Languages
-[![Python](https://img.shields.io/badge/Python-Primary_Language-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-Good-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/C++-Good-6295CB?style=for-the-badge&logo=cplusplus)]()
-[![Java](https://img.shields.io/badge/Java-Basics-E51F24?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/) 
-[![C](https://img.shields.io/badge/C-Learning-00427E?style=for-the-badge&logo=c&logoColor=white)]() 
-[![HTML](https://img.shields.io/badge/HTML-HateIt-E34F26?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-HateIt-1572B6?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-HateIt-FFCE5A?style=for-the-badge&logo=javascript)](https://www.javascript.com/)
-[![HTML](https://img.shields.io/badge/HTML-HateIt-E34F26?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Java](https://img.shields.io/badge/Java-Good-E51F24?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/) 
+[![C](https://img.shields.io/badge/C-Beginner-00427E?style=for-the-badge&logo=c&logoColor=white)]() 
+[![HTML](https://img.shields.io/badge/HTML-Good-E34F26?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-Good-1572B6?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Good-FFCE5A?style=for-the-badge&logo=javascript)](https://www.javascript.com/)
 
 
 
