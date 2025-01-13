@@ -36,6 +36,8 @@
 [![Java](https://img.shields.io/badge/Java-Basics-E51F24?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/) 
 [![C](https://img.shields.io/badge/C-Learning-00427E?style=for-the-badge&logo=c&logoColor=white)]() 
 [![JavaScript](https://img.shields.io/badge/JavaScript-HateIt-FFCE5A?style=for-the-badge&logo=javascript)](https://www.javascript.com/)
+[![HTML](https://img.shields.io/badge/JavaScript-HateIt-FFCE5A?style=for-the-badge&logo=javascript)](https://www.javascript.com/)
+
 
 
 ## ⚙ Frameworks
