@@ -15,7 +15,7 @@
 <th>
 
 # 🔗 Socials
-[![GitHub Unique](https://img.shields.io/github/followers/YashVardhan-AI?label=follow&style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/Unique0202)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Unique0202)
 [![Email](https://img.shields.io/badge/Mail-004788?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uniquek0202@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unique-k-71064a28a/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/766202021216518174)
