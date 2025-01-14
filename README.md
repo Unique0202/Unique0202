@@ -6,7 +6,7 @@
 
 👋 I’m @Unique. <br>
 👀 I'm interested in CS, Maths, Design & Games. <br>
-🌱 I'm currently learning React, MongoDB, SQL. <br>
+🌱 I'm currently learning React, Node, MongoDB, SQL. <br>
 📖 Learning Computer Science with Design in academics. <br>
 📫 Reach me through my socials ———————————⟶
         </th>
